@@ -1,3 +1,5 @@
+This blog is built with Livewire Laravel Jetstream, it can be viewed in three languages ​​and login to Facebook and Google. All integrated in a single page plus an administration and management panel. It is self-administered for authorized users, both to load images and descriptive texts. Post editor with Ckeditor.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
